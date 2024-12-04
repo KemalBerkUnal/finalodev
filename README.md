@@ -4,7 +4,6 @@ Final Projesi: Web Sitesi
 Bu proje, [Web Programlama] dersinin final ödevi kapsamında geliştirilmiştir. Projenin amacı, modern web geliştirme tekniklerini uygulayarak kullanıcı dostu ve işlevsel bir web sitesi oluşturmaktır.
 
 Özellikler
-Responsive (mobil uyumlu) tasarım.
 Dinamik içerik yönetimi.
 Kullanıcı dostu arayüz ve gezinme menüsü.
 Form validasyonu ve kullanıcı giriş sistemi.
